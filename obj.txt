@@ -1,0 +1,7 @@
+let student={
+    name:"kavya",
+    city:{
+        state:"tamil nadu",
+        district:"chennai";
+    }
+}
